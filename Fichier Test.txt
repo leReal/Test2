@@ -1,0 +1,16 @@
+
+COMMANDES UTILES
+================
+
+1. Creer un repertoire Distant : git remote add origin https://github.com/leReal/Test2.git
+	[OU]
+	touch README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/leReal/Test2.git
+	git push -u origin master
+
+
+INFO IMPORTANTES
+================
