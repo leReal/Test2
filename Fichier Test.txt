@@ -15,3 +15,4 @@ COMMANDES UTILES
 INFO IMPORTANTES
 ================
 	1. Il est possible d'utiliser GIT avec Tortoise comme client
+	2. Travailler à plusieurs sur un projet: http://www.siteduzero.com/forum/sujet/github-ouvrir-mon-repo-a-mes-potes-36512
