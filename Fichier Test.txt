@@ -14,3 +14,4 @@ COMMANDES UTILES
 
 INFO IMPORTANTES
 ================
+	1. Il est possible d'utiliser GIT avec Tortoise comme client
